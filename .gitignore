@@ -1,0 +1,9 @@
+#忽略所有.class,.log, .jar, .war 文件
+*.class
+*.log
+*.jar
+*.war
+
+#忽略.mtj.tmp文件夹下的所有内容
+/mtj/*
+/tmp/*
